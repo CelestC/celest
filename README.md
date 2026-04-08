@@ -1,38 +1,46 @@
-# Hi there 👋 I'm Celeste
+# Hi 👋 I'm Celeste
 
-💻 Aspiring Cybersecurity Analyst  
-🔐 Passionate about protecting systems and data  
-🐍 Python Enthusiast  
-
----
-
-## 🚀 What I’m Working On
-- Learning cybersecurity fundamentals
-- Building hands-on Python security projects
-- Understanding network security and threats
+🔐 Aspiring Cybersecurity Analyst  
+💻 Python Developer (Beginner → Growing)  
+🌐 Interested in Network Security & Threat Detection  
 
 ---
 
-## 🛠️ Projects
-- 🔐 Password Strength Checker  
-- 🔍 Basic Port Scanner  
-- 🛡️ Phishing Awareness Guide  
+## 🚀 About Me
+I am currently building my skills in cybersecurity by working on hands-on projects focused on system security, data protection, and real-world threat scenarios.
+
+---
+
+## 🛠️ Cybersecurity Projects
+
+### 🔐 Password Generator
+A Python tool that generates strong, random passwords to improve security.
+
+### 🔒 File Encryption Tool
+A Python script that encrypts and decrypts data using secure encryption methods.
+
+### 🛡️ Mini SOC Incident Simulator
+A simulation of a Security Operations Center workflow for handling suspicious activity.
+
+### 🎣 Phishing Awareness Guide
+A beginner-friendly guide to identifying and preventing phishing attacks.
 
 ---
 
 ## 📚 Currently Learning
 - Network Security  
 - Threat Detection  
-- Cybersecurity Basics  
+- Python for Security  
+- Cybersecurity Fundamentals  
 
 ---
 
 ## 🎯 Goals
 - Become a Cybersecurity Analyst  
-- Work remotely in tech  
-- Keep growing my skills every day  
+- Work in a Security Operations Center (SOC)  
+- Gain real-world experience in cybersecurity  
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/feed/
