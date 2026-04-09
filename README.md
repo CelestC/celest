@@ -1,3 +1,6 @@
+ ![Python](https://img.shields.io/badge/Python- Beginner-blue)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 # 👋 Hi, I'm Celeste  
 
 🔐 Aspiring Cybersecurity Analyst  
