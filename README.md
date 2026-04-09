@@ -1,33 +1,33 @@
-# Hi 👋 I'm Celeste
+# 👋 Hi, I'm Celeste  
 
 🔐 Aspiring Cybersecurity Analyst  
-💻 Python Developer (Beginner → Growing)  
-🌐 Interested in Network Security & Threat Detection  
+💻 Python | Cybersecurity Fundamentals  
+🌐 Network Security & Threat Detection  
 
 ---
 
-## 🚀 About Me
-I am currently building my skills in cybersecurity by working on hands-on projects focused on system security, data protection, and real-world threat scenarios.
+## 🚀 About Me  
+I am currently building my skills in cybersecurity through hands-on projects focused on protecting systems, analysing threats, and understanding real-world security scenarios.  
 
 ---
 
-## 🛠️ Cybersecurity Projects
+## 🛠️ Featured Projects  
 
-### 🔐 Password Generator
-A Python tool that generates strong, random passwords to improve security.
+🔐 **Password Generator**  
+→ Generates strong, secure passwords using Python  
 
-### 🔒 File Encryption Tool
-A Python script that encrypts and decrypts data using secure encryption methods.
+🔒 **File Encryption Tool**  
+→ Encrypts and decrypts data to protect sensitive information  
 
-### 🛡️ Mini SOC Incident Simulator
-A simulation of a Security Operations Center workflow for handling suspicious activity.
+🛡️ **Mini SOC Incident Simulator**  
+→ Simulates incident detection and reporting workflows  
 
-### 🎣 Phishing Awareness Guide
-A beginner-friendly guide to identifying and preventing phishing attacks.
+🎣 **Phishing Awareness Guide**  
+→ Explains how to identify and prevent phishing attacks  
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning  
 - Network Security  
 - Threat Detection  
 - Python for Security  
@@ -35,12 +35,12 @@ A beginner-friendly guide to identifying and preventing phishing attacks.
 
 ---
 
-## 🎯 Goals
+## 🎯 Goals  
 - Become a Cybersecurity Analyst  
-- Work in a Security Operations Center (SOC)  
-- Gain real-world experience in cybersecurity  
+- Work in a SOC environment  
+- Gain real-world cybersecurity experience  
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/feed/
+## 📫 Connect With Me  
+LinkedIn:https://www.linkedin.com/feed/
